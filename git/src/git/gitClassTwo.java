@@ -1,8 +1,8 @@
 package git;
 
 public class gitClassTwo {
-	public void main() {
-		System.out.println("PPAP");
+	public void sayHello(String Towhom){
+		System.out.println("PPAP"+Towhom);
 		System.out.println("AOT");
 	}
 }
